@@ -1,0 +1,3 @@
+Prueba de creación de documento
+
+Para curso GIT.
