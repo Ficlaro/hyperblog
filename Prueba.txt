@@ -2,3 +2,5 @@ Prueba de creación de documento
 Para curso GIT.
 
 Mi nombre es Fiamma Claro y nací en Colombia.
+
+Hoy hablaremos de su vida.
